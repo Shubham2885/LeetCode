@@ -1,6 +1,5 @@
 build
 gradle
-src/bin
 gradlew
 gradlew.bat
 .gradle
